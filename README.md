@@ -14,8 +14,12 @@ El objetivo de este primer proyecto es realizar una limpieza y manipulación de 
 
 ## Como se ha realizado.
 
-Se ha importado el archivo facilitado por los TA´s de Ironhack para la realización del trabajo.
+Se ha importado el archivo facilitado por los TA´s de Ironhack para la realización del trabajo, en este caso se trata de un documento csv descargado del siguiente enlace, https://www.kaggle.com/teajay/global-shark-attacks.
+
 Para realizar la limpieza y manipulación de datos, así como la elaboración de DataFrames he importado el módulo Panda.
+
+Se ha importado también el módulo re, para realizar una pequeña incursión con el uso del mismo.
+
 Para realizar la parte gráfica he utilizado la libreria matplotlib.
 
 ## Conclusión.
