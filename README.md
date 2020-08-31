@@ -1,6 +1,6 @@
 # Shark-Attacks-Pandas-Project
 
-![Alt text](proyectos/Shark-Project/840_560.jpg)
+![840_560](840_560.jpg) 
 
 El objetivo de este primer proyecto es realizar una limpieza y manipulación de una tabla de datos que continene numerosos errores mediante el uso de Panda. Una vez finalizado este trabajo, hay que hacer una hipótesis en relación a los datos obtenidos. 
 
@@ -8,6 +8,7 @@ El objetivo de este primer proyecto es realizar una limpieza y manipulación de 
 ## Hipótesis.
 
 ¿Cual ha sido la evolución de los ataques de tiburón a lo largo de las últimas 10 décadas?¿Son cada vez más agresivos?.
+
 ¿Que países son los más peligrosos?.
 
 
